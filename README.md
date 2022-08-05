@@ -1,2 +1,2 @@
-# SocketChat
-C Socket Chat
+# Socket
+C Socket
