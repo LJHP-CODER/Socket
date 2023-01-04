@@ -1,2 +1,2 @@
 # Socket
-Windows - C Socket
+C socket - Windows
