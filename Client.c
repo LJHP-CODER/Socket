@@ -40,7 +40,6 @@ int main(){
         return 0;
     }
 
-    printf("[ DarkChat ]\n");
     printf("[*] Server IP: ");
     if(fgets(ServerIP, 20, stdin) == NULL){
         closesocket(Client_Sock);

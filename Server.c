@@ -41,8 +41,6 @@ int main(){
         return 0;
     }
 
-    printf("[ DarkChat ]\n");
-
     //Server Setting
     memset(&Server_Addr, 0, sizeof(Server_Addr));
     Server_Addr.sin_family = AF_INET;
